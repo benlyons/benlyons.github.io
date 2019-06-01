@@ -5,3 +5,4 @@ _site/
 *.suo
 *.sqlite
 /.vs/config/applicationhost.config
+/.vs/VSWorkspaceState.json
