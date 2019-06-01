@@ -1,0 +1,1 @@
+![Dry fountain at the Botanic Gardens](/assets/images/IMG_4679.JPG)
